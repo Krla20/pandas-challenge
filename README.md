@@ -11,7 +11,7 @@ Working Jupyter Notebook: http://localhost:8888/notebooks/Desktop/Class_Material
 
 You must include a written description of three observable trends based on the data.
 # Heroes Of Pymoli Data Analysis
-Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
+Of the 780 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
 
 Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and third group ages 25-29 (13.4%).
 Also, our higher group of consumers, and the ones that piad the higher purchase value are the age group 20-24 which had a total purchase value of $1,114.06, with a significant gap compared to the second group age 15-19 which had a total purchase value of $412.89.
